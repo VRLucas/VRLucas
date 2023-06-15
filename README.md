@@ -1,6 +1,6 @@
 <h1><strong>Olá Eu sou Lucas Rodrigues de Souza 👋</strong></h1>
 
-- 🌱 Eu estou aprendendo TypeScript
+- 🌱 Eu estou aprendendo TypeScript,React.Js
 - 📫 Contado email: lucasrdesouza9@gmail.com Ou lukkita.lukkita@gmail.com
 - 😄 Pronouns: ele/dele
 <div>
