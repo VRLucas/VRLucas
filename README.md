@@ -3,14 +3,6 @@
 - 🌱 Eu estou aprendendo TypeScript,React.Js
 - 📫 Contado email: lucasrdesouza9@gmail.com Ou lukkita.lukkita@gmail.com
 - 😄 Pronouns: ele/dele
-<div>
-  <a href="https://github.com/VRLucas/github-readme-stats">
-    <img aling="center" src="https://github-readme-stats.vercel.app/api?username=VRLucas">
-  </a>
-  <a href="https://github.com/VRLucas/github-readme-stats">
-    <img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VRLucas&layout=compact">
-  </a> 
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
